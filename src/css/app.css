@@ -1,0 +1,13 @@
+body {
+    background: #00003A;
+    color: white;
+    font-family: 'Palatino';
+}
+
+.panel-body {
+    color: black;
+}
+
+.panel-body img {
+    max-height: 313px;
+}

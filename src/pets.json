@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Boofus",
+    "picture": "images/shar-pei.jpeg",
+    "age": 3,
+    "breed": "Shar Pei",
+    "location": "Moline, Ilinois"
+  },
+  {
+    "id": 1,
+    "name": "Mojo",
+    "picture": "images/bulldog.jpeg",
+    "age": 3,
+    "breed": "English Bulldog",
+    "location": "Austin, Texas"
+  },
+  {
+    "id": 2,
+    "name": "Yogi",
+    "picture": "images/shar-pei.jpeg",
+    "age": 2,
+    "breed": "Shar Pei",
+    "location": "Austin, Texas"
+  },
+  {
+    "id": 3,
+    "name": "Buster",
+    "picture": "images/poodle-mix.jpeg",
+    "age": 2,
+    "breed": "Poodle Mix",
+    "location": "Cedar Park, Texas"
+  },
+  {
+    "id": 4,
+    "name": "Porter",
+    "picture": "images/bulldog.jpeg",
+    "age": 2,
+    "breed": "English Bulldog",
+    "location": "Rock Island, IL"
+  },
+  {
+    "id": 5,
+    "name": "Hamhock",
+    "picture": "images/bulldog.jpeg",
+    "age": 3,
+    "breed": "French Bulldog",
+    "location": "Rockford, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Natasha",
+    "picture": "images/poodle-mix.jpeg",
+    "age": 3,
+    "breed": "Poodle Mix",
+    "location": "Round Rock, Texas"
+  },
+  {
+    "id": 7,
+    "name": "Poonski",
+    "picture": "images/pug.jpeg",
+    "age": 3,
+    "breed": "Pug",
+    "location": "Georgetown, Texas"
+  },
+  {
+    "id": 8,
+    "name": "Finn",
+    "picture": "images/bulldog.jpeg",
+    "age": 2,
+    "breed": "English Bulldog",
+    "location": "Buda, Texas"
+  },
+  {
+    "id": 9,
+    "name": "Sheba",
+    "picture": "images/poodle-mix.jpeg",
+    "age": 3,
+    "breed": "Poodle Mix",
+    "location": "Pflugerville, Texas"
+  },
+  {
+    "id": 10,
+    "name": "Windsor",
+    "picture": "images/pug.jpeg",
+    "age": 2,
+    "breed": "Pug",
+    "location": "Gurnee, Illinois"
+  },
+  {
+    "id": 11,
+    "name": "Donny",
+    "picture": "images/shar-pei.jpeg",
+    "age": 3,
+    "breed": "Shar Pei",
+    "location": "Fredricksburg, Texas"
+  },
+  {
+    "id": 12,
+    "name": "Bob",
+    "picture": "images/bulldog.jpeg",
+    "age": 3,
+    "breed": "English Bulldog",
+    "location": "Lampass, Texas"
+  },
+  {
+    "id": 13,
+    "name": "Stacey",
+    "picture": "images/poodle-mix.jpeg",
+    "age": 4,
+    "breed": "Poodle Mix",
+    "location": "Bettendorf, Iowa"
+  },
+  {
+    "id": 14,
+    "name": "Carol",
+    "picture": "images/poodle-mix.jpeg",
+    "age": 2,
+    "breed": "Poodle Mix",
+    "location": "Davenport, Iowa"
+  },
+  {
+    "id": 15,
+    "name": "Daniel",
+    "picture": "images/bulldog.jpeg",
+    "age": 2,
+    "breed": "English Bulldog",
+    "location": "Waco, Texas"
+  }
+]
